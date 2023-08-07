@@ -1,8 +1,43 @@
 {
-    "count": 1,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "29fe24a9-3328-4731-8bfb-7e786d9122f2",
+            "collectionId": "Afrikaans",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Afrikaans/29fe24a9-3328-4731-8bfb-7e786d9122f2_af_Female.mp4"
+        },
+        {
+            "id": "41f81b53-211c-4d56-8902-7b7ece1bf8cb",
+            "collectionId": "Afrikaans",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Afrikaans/41f81b53-211c-4d56-8902-7b7ece1bf8cb_af_Female.mp4"
+        },
+        {
+            "id": "938d8a52-5a30-4f3f-8d31-cd8934627275",
+            "collectionId": "Afrikaans",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Afrikaans/938d8a52-5a30-4f3f-8d31-cd8934627275_af_Female.mp4"
+        },
+        {
+            "id": "8dfbc080-db93-48df-aa5d-b95ea50eea71",
+            "collectionId": "Afrikaans",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Afrikaans/8dfbc080-db93-48df-aa5d-b95ea50eea71_af_Female.mp4"
+        },
+        {
+            "id": "5275393c-5d53-4119-88d4-12fa40beeda3",
+            "collectionId": "Afrikaans",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/Afrikaans/5275393c-5d53-4119-88d4-12fa40beeda3_af_Female.mp4"
+        },
         {
             "id": "7549419a-3fda-48d7-acab-9c7971aeb4af",
             "collectionId": "Afrikaans",
